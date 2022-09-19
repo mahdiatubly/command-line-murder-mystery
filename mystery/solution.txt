@@ -1,2 +1,462 @@
 grep CLUE crimescene
 the command that lead me to the catch the crime.
+    1  disk details
+    2  diskpart
+    3  fdisk -l /dev/sda
+    4  sudo fdisk -l /dev/sda
+    5  gsetting set org.gnome.shell.extension.dash-to-dock click-action 'minimize'
+    6  gsettings set org.gnome.shell.extension.dash-to-dock click-action 'minimize'
+    7  gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize'
+    8  sudo apt update
+    9  sudo apt upgrade
+   10  install /Downloads/python-3.10.6
+   11  python3
+   12  sudo apt update
+   13  sudo apt install pyhton3
+   14  sudo apt update
+   15  sudo apt install python3
+   16  python -version
+   17  python3 -version
+   18  python3
+   19  sudo apt update
+   20  sudo apt install Atom
+   21  sudo apt install atom
+   22  [200~wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add ~
+   23  sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
+   24  sudo apt install atom
+   25  sudo apt-get update
+   26  sudo apt install atom
+   27  sudo apt-get install atom
+   28  wget -qO - https://packagecloud.io/AtomEditor/atom/gpgkey | sudo apt-key add
+   29  sudo sh -c 'echo "deb [arch=amd64] https://packagecloud.io/AtomEditor/atom/any/ any main" > /etc/apt/sources.list.d/atom.list'
+   30  [200~sudo apt-get update
+   31  sudo apt-get update
+   32  sudo dpkg -i atom-amd64.deb~
+   33  sudo apt-get install atom
+   34  sudo apt-get install atom-beta
+   35  apm install script
+   36  exit
+   37  sudo apm install script
+   38  cd ~/usr/bin/env~
+   39  cd /bin/env
+   40  cd ~/bin/env
+   41  cd ~/bin
+   42  sudo apt install gimp
+   43  sudo apt install blender
+   44  sudo apt remove blender
+   45  gimp
+   46  gimp details
+   47  ls
+   48  cd ..
+   49  ls
+   50  cd ~
+   51  ls
+   52  cd /Downloads
+   53  cd Downloads
+   54  ls
+   55  cd blender-3.2.2-linux-x64
+   56  lsa
+   57  ls
+   58  ./configure
+   59  make
+   60  su
+   61  make
+   62  sudo apt install make
+   63  make
+   64  su
+   65  sudo su
+   66  downloads
+   67  cd Downloads
+   68  tar xvfz blender-3.2.2-linux-x64.tar.xz
+   69  pwd
+   70  sudo -H gedit /home/mahdialtoubli/Downloads 
+   71  sudo -H gedit /home/mahdialtoubli/Downloads/blender-3.2.2-linux-x64.tar.xz 
+   72  sudo add-apt-repository blender-3.2.2-linux-x64
+   73  sudo apt-get install synaptic
+   74  tar xf blender-3.2.2-linux-x64.tar.xz
+   75  cd Downloads
+   76  tar xf blender-3.2.2-linux-x64.tar.xz
+   77  ./configure
+   78  cd blender-3.2.2-linux-x64.tar.xz
+   79  cd blender-3.2.2-linux-x64
+   80  ./configure
+   81  apt-get install xz-utils
+   82  sudo apt-get install xz-utils
+   83  sudo tar xvfj blender-3.2.2-linux-x64.tar.xz~
+   84  cd .
+   85  cd..
+   86  cd ..
+   87  sudo tar xvfj blender-3.2.2-linux-x64.tar.xz
+   88  cd blender-3.2.2-linux-x64
+   89  make
+   90  sudo make install
+   91  clear
+   92  blender-3.2.2-linux-x64.tar.xz
+   93  downloads/blender-3.2.2-linux-x64.tar.xz
+   94  Downloads/blender-3.2.2-linux-x64.tar.xz
+   95  Downloads/blender-3.2.2-linux-x64.tar
+   96  Downloads/blender-3.2.2-linux-x64
+   97  cd ..
+   98  Downloads/blender-3.2.2-linux-x64.tar.xz
+   99  blender-3.2.2-linux-x64.tar.xz
+  100  tar blender-3.2.2-linux-x64.tar.xz
+  101  tar --help
+  102  downloads
+  103  cd downloads
+  104  cd Downloads
+  105  sudo install blender-3.2.2-linux-x64
+  106  install --help
+  107  sudo install blender-3.2.2-linux-x64 ~/Downloads
+  108  sudo install ~/Downloads
+  109  sudo install ~/Downloads blender-3.2.2-linux-x64
+  110  sudo dpkg -i blender-3.2.2-linux-x64.tar.xz
+  111  sudo dpkg -i ~/Downloads/blender-3.2.2-linux-x64
+  112  sudo dpkg -i ~/Downloads/blender-3.2.2-linux-x64.tar
+  113  sudo apt remove synaptic
+  114  sudo apt remove blender
+  115  cd ~
+  116  ls -a
+  117  ls -l /dev
+  118  ls -l /dev/sda
+  119  ls -l /dev/sdb
+  120  ls -l /dev/sdc
+  121  uname -r
+  122  sudo apt update
+  123  sudo apt full-upgrade
+  124  uname -r
+  125  clear
+  126  ps -x
+  127  /proc
+  128  ~/proc
+  129  ~/.proc
+  130  top
+  131  uptime
+  132  /var/log/syslog
+  133  ~/var/log/syslog
+  134  ls
+  135  ls -a
+  136  local
+  137  .local
+  138  cd .local
+  139  ls
+  140  share
+  141  cd
+  142  ls
+  143  cd ..
+  144  cd ~
+  145  ls -a 
+  146  git --version
+  147  cd Documents
+  148  mkdir GA-Blog
+  149  cd GA-Blog
+  150  git init
+  151  ls -a
+  152  clear
+  153  git status
+  154  touch post.txt
+  155  git status
+  156  git add post.text
+  157  ls
+  158  git add post.text
+  159  git add post.txt
+  160  git status
+  161  git log
+  162  git commit -m "Creating post.txt file"
+  163  git log
+  164  git commit -m "Creating post.txt file"
+  165  ip neigh
+  166  ip addr
+  167  ifcofig
+  168  ifconfig
+  169  ip addr
+  170  sudo apt update
+  171  sudo apt upgrade
+  172  sudo apt remove atom beta
+  173  sudo apt remove Atom Beta
+  174  sudo apt remove atombetaa
+  175  sudo apt remove atom
+  176  sudo apt remove atom beta
+  177  sudo apt remove atom-beta
+  178  sudo apt install atom
+  179  atom
+  180  atom .
+  181  python3
+  182  atom .
+  183  apm install script~
+  184  apm install script
+  185  atom .
+  186  java
+  187  sudo apt install openjdk-18-jre-headless
+  188  java
+  189  java -version
+  190  reboot
+  191  atom .
+  192  pws
+  193  pwd
+  194  local
+  195  cd local
+  196  ls
+  197  cd ..
+  198  ls
+  199  cd ~
+  200  pwd
+  201  ls
+  202  ls -a
+  203  cd .local
+  204  ls
+  205  share
+  206  cd share
+  207  bin
+  208  cd bin
+  209  ls
+  210  ls -a
+  211  atom
+  212  which python3
+  213  echo $PATH
+  214  nano .bash_rc
+  215  /usr/bin/python3
+  216  cd /usr/bin/python3
+  217  cd ..
+  218  which python3
+  219  type python3
+  220  python
+  221  python3
+  222  nano .bash_rc
+  223  sudo nano .bash_rc
+  224  type python3
+  225  echo $PATH
+  226  python
+  227  pyhton3
+  228  python3
+  229  sudo nano .profile_rc
+  230  python
+  231  nano .profile_rc
+  232  python
+  233  sudo nano .profile_rc
+  234  python
+  235  exit
+  236  python
+  237  python3
+  238  pyhton3
+  239  python3
+  240  atom
+  241  atom.
+  242  atom .
+  243  echo $PATH
+  244  sudo nano .profile_rc
+  245  nano profile_rc
+  246  type pyhton3
+  247  type python3
+  248  sudo nano .profile_rc
+  249  exit
+  250  echo $PATH
+  251  sudo nano .profile_rc
+  252  exit
+  253  java
+  254  java -version
+  255  type java
+  256  pip install jupyterlab
+  257  sudo apt install jupyterlab
+  258  sudo apt-get python3-pip python-dev
+  259  sudo apt-get install python3-pip python-dev
+  260  sudo apt-get install python3-pip python3-dev
+  261  pip3 --version
+  262  pip install jupyterlab
+  263  jupyter-lab
+  264  pip install --user pipenv
+  265  pipenv
+  266  pipenv -version
+  267  pipenv --version
+  268  $PATH
+  269  sudo apt remove pip
+  270  pip3 --version
+  271  sudo apt remove pip3
+  272  sudo apt remove pip
+  273  sudo apt remove python3-pip
+  274  pip3 --version
+  275  sudo apt-get update
+  276  sudo apt-get -y install python3-pip
+  277  pip3 --version
+  278  echo 'export PATH="${HOME}/.local/bin:$PATH"' >> ~/.bashrc
+  279  python3 -m pip install --user pipenv
+  280  pip install jupyterlab
+  281  jupyter-lab
+  282  jupyter
+  283  jupyter-lab --version
+  284  sudo snap install jupyter
+  285  jupyter
+  286  jupyter --version
+  287  jupyter-lab
+  288  sudo snap install jupyter-lab
+  289  sudo snap install jupyterlab
+  290  sudo pip install jupyterlab
+  291  jupyter-lab
+  292  sudo apt remove jupyter
+  293  sudo apt autoremove
+  294  sudo pip remove jupyterlab
+  295  sudo pip unistall jupyterlab
+  296  python3 -m pip uninstall -y jupyter jupyter_core jupyter-client jupyter-console jupyterlab_pygments notebook qtconsole nbconvert nbformat jupyterlab-widgets nbclient
+  297  pip3 uninstall jupyter
+  298  pip remove jupyter
+  299  pip uninstall jupyter
+  300  pip3 uninstall jupyter
+  301  sudo snap uninstall jupyterlab
+  302  sudo snap remove jupyterlab
+  303  sudo snap remove jupyter
+  304  sudo snap remove jupyternotebook
+  305  sudo snap remove jupyternote
+  306  sudo snap remove jupyter-notebook
+  307  sudo snap remove jupyterlab
+  308  sudo pip remove jupyterlab
+  309  sudo pip uninstall jupyterlab
+  310  pip uninstall jupyterlab
+  311  pip uninstall jupyter-notebook
+  312  pip3 uninstall jupyter
+  313  pip3 uninstall jupyter-notebook
+  314  python3 -m pip uninstall --user pipenv
+  315  python3 -m pip uninstal pipenv
+  316  python3 -m pip uninstall pipenv
+  317  sudo apt-get -y remove python3-pip
+  318  pip3 uninstall jupyter
+  319  sudo snap remove jupyter
+  320  sudo snap remove notebook
+  321  pip install pip-autoremove
+  322  rm jupyter-nbclassic.desktop -a 
+  323  rm -a  jupyter-nbclassic.desktop  
+  324  rm --a  jupyter-nbclassic.desktop  
+  325  rm jupyter-nbclassic.desktop  
+  326  sudo rm jupyter-nbclassic.desktop  
+  327  sudo rm jupyter-notebook.desktop  
+  328  sudo apt remove atom
+  329  cd .local
+  330  cd trash
+  331  cd Trash
+  332  cd share 
+  333  cd Trash
+  334  sudo snap remove jupyter -y
+  335  snap
+  336  snap help --all
+  337  cd ..
+  338  cd ~
+  339  referesh
+  340  refresh
+  341  snap refresh
+  342  snap remove jupyter
+  343  snap remove notebook
+  344  python3 
+  345  sudo apt install python3
+  346  sudo apt install blender
+  347  /bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/HEAD/install.sh)"
+  348  test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"
+  349  test -d /home/linuxbrew/.linuxbrew && eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+  350  test -r ~/.bash_profile && echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bash_profile
+  351  echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.profile
+  352  sudo apt install brew
+  353  echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.profile
+  354  brew --versionb
+  355  test -r ~/.bash_profile && echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bash_profile
+  356  echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.profile
+  357  sudo apt install brew
+  358  brew --version
+  359  echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.profile~
+  360  test -d ~/.linuxbrew && eval "$(~/.linuxbrew/bin/brew shellenv)"
+  361  test -d /home/linuxbrew/.linuxbrew && eval "$(/home/linuxbrew/.linuxbrew/bin/brew shellenv)"
+  362  test -r ~/.bash_profile && echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bash_profile
+  363  echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.profile
+  364* 
+  365  ls -a
+  366  code .
+  367  echo "eval \"\$($(brew --prefix)/bin/brew shellenv)\"" >> ~/.bashrc
+  368  vi .bashrc
+  369  git --version
+  370  lsb_release -v
+  371  sudo apt install vscode
+  372  sudo apt update
+  373  git 
+  374  git config --global user.name MahdiAltoubli
+  375  git config --global user.email mahdiatubly@gmail.com
+  376  git config --global user.name mahdiatubly
+  377  git config --global push.default simple
+  378  git config --global credential.helper cache
+  379  git config --global core.editor 'code -w'
+  380  git config --list
+  381  clear
+  382  git config --list
+  383  pwd
+  384  type slack
+  385  cd Music
+  386  mkdir GA_Practice
+  387  ls 
+  388  cd GA_Practice 
+  389  touch books.txt
+  390  code books.txt
+  391  books.txt
+  392  ls
+  393  touch index.html
+  394  code .
+  395  less books.txt
+  396  cat books.txt | sort
+  397  cd ~
+  398  cd Music
+  399  cd GA_Practice
+  400  cd ..
+  401  git clone https://github.com/mahdiatubly/BH-example-remote-repository.git
+  402  ls
+  403  cd BH-example-remote-repository 
+  404  ls
+  405  touch Mahdi.md
+  406  code .
+  407  git status
+  408  git add .
+  409  git status
+  410  git commit -m "Greeting! an md file"
+  411  git status
+  412  git log
+  413  git remote -v
+  414  git push origin main
+  415  notepad
+  416  cd ..
+  417  git clone https://github.com/mahdiatubly/command-line-murder-mystery.git
+  418  ls
+  419  cd command-line-murder-mystery
+  420  ls
+  421  cat instructions
+  422  nano cheatsheet.md
+  423  clear 
+  424  ls 
+  425  mystery
+  426  cd mystery
+  427  grep *crimescene*
+  428  ls | grep *crimescene*
+  429  less crimescene
+  430  grep CLUE crimescene
+  431  touch solution.txt
+  432  nano solution.text
+  433  nano solution.txt
+  434  cat solution.txt
+  435  git add.
+  436  git add .
+  437  git status
+  438  git commit .
+  439  git status
+  440  git log list 
+  441  git log --list 
+  442  ls 
+  443  clear
+  444  cat clear
+  445  clear
+  446  cat crimescene
+  447  cat crimescene| grep CLUE
+  448  cat people |grep Annabel
+  449* grep 
+  450  head vehicles 
+  451  cat vehicles |grep  6'
+cat vehicles |grep  6
+  452  head vehicles | grep 'Height: 6'
+  453  head vehicles | grep "Height: "
+  454  cat vehicles 
+  455  cat vehicles | grep "Height: 6*"
+  456  head vehicles | grep 'Height: 6'
+  457  head vehicles | grep 'Height: 6*'
+  458  history
+  459  history >> solution.txt
