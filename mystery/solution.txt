@@ -1,0 +1,2 @@
+grep CLUE crimescene
+the command that lead me to the catch the crime.
